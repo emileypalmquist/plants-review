@@ -1,0 +1,29 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "pothos",
+      "needsWater": true
+    },
+    {
+      "id": 2,
+      "name": "philodendron",
+      "needsWater": false
+    },
+    {
+      "id": 3,
+      "name": "fiddle leaf fig",
+      "needsWater": true
+    },
+    {
+      "name": "monstera deliciosa",
+      "needsWater": true,
+      "id": 4
+    },
+    {
+      "name": "palm tree",
+      "needsWater": false,
+      "id": 5
+    }
+  ]
+}
